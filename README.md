@@ -10,6 +10,7 @@ Both these problems are instances of issues with schema evolution: what happens 
 
 * [Designing Data Intensive Applications](https://dataintensive.net/)
 * [Schema Management - Confluent](https://docs.confluent.io/current/schema-registry/docs/index.html)
+* [Schema Evolution and Compatibility - Confluent](https://docs.confluent.io/current/schema-registry/avro.html)
 * [The Problem of Managing Schemas](https://www.oreilly.com/ideas/the-problem-of-managing-schemas)
 * [Continuous Evolution & GraphQL: A Double-Edged Sword](https://medium.com/@__xuorig__/continuous-evolution-graphql-a-double-edged-sword-512f147c4083)
 * [GraphQL Schema Design: Building Evolvable Schemas](https://blog.apollographql.com/graphql-schema-design-building-evolvable-schemas-1501f3c59ed5)
@@ -27,3 +28,4 @@ Both these problems are instances of issues with schema evolution: what happens 
 * [gh-ost](https://github.com/github/gh-ost)
 * [Facebook OSC](https://github.com/facebookincubator/OnlineSchemaChange)
 * [Arrested by the CAP: Handling Data in Distributed Systems](https://speakerdeck.com/aviranm/handling-data-in-distributed-systems)
+* [Avro Schema Resolution Rules](https://avro.apache.org/docs/current/spec.html#Schema+Resolution)
