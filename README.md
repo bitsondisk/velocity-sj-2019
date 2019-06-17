@@ -6,6 +6,11 @@ Everybody’s talking about microservices, but nobody seems to agree on how to m
 
 Both these problems are instances of issues with schema evolution: what happens when the structure of your structured data changes. Rather than taking a prescriptive approach, Alex Rasmussen distills a lot of institutional knowledge and computer science history into a set of patterns and examines the trade-offs between them.
 
+## Slides and Video
+
+* [Slides (coming soon)]()
+* [Video (coming soon)]()
+
 ## References
 
 * [Designing Data Intensive Applications](https://dataintensive.net/)
