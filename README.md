@@ -8,7 +8,7 @@ Both these problems are instances of issues with schema evolution: what happens 
 
 ## Slides and Video
 
-* [Slides (coming soon)]()
+* [Slides (coming soon)](https://www.slideshare.net/alexcras/schema-evolution-patterns-velocity-sj-2019)
 * [Video (coming soon)]()
 
 ## References
